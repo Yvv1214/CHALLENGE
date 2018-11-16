@@ -1,0 +1,35 @@
+
+.the-body {
+    background-color: oldlace;
+}
+
+.header {
+    background-color: aquamarine;
+    padding: 1rem;
+}
+
+.h2, .thelegend {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container-fluid {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.col-lg-4 {
+    border-radius: 1rem;
+    background-color: lightgreen;
+}
+
+.asidebox {
+    border: solid;
+    border-radius: 1rem;
+    background-color: aliceblue;
+}
+
+.thebuttons {
+    text-align: center;
+    margin-bottom: 1rem;
+}
